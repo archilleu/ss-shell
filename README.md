@@ -1,2 +1,1 @@
-# ss-shell
-install ss-libev shell
+使用vultr的vps服务器，linux版本为Ubuntu18.10,默认开启了bbr
